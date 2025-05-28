@@ -20,6 +20,7 @@ Abordagem diferente que incentiva a reflexão.
 Contras: 
 No começo, fica um pouco vago o que se espera no portfólio.
 
+
 📅 Semana 2 – Pensamento Computacional 
 
 
@@ -37,3 +38,6 @@ A aula foi bem explicada, com exemplos simples e eficazes.
 
 Contras: 
 Muita novidade de uma vez pode confundir no começo.
+
+
+
