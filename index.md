@@ -1,228 +1,198 @@
+
 # 📘 Portfólio PPEL – Línnek
 
-> Esse é meu portfólio reflexivo da disciplina **Práticas Profissionais em Ética e Legislação**.
+> Esse é meu portfólio reflexivo da disciplina **Práticas Profissionais em Ética e Legislação**, onde comento semanalmente o que foi discutido em aula, o que aprendi e minhas impressões sobre os temas.  
 
 ---
 
 ## 📅 Semana 1 – Introdução à Disciplina
 
 ### O que foi discutido:
-Falamos sobre o plano de ensino, avaliações, faltas e como seria feito o portfólio.  
-A professora também ressaltou o papel da ética no nosso futuro como profissionais.
+Plano de ensino, regras de avaliação, faltas e estrutura do portfólio.  
+A professora falou sobre o papel da ética na nossa formação profissional.
 
 ### O que eu aprendi:
-Vi que a disciplina não é só sobre regras. Ela quer nos preparar pra tomar decisões conscientes no mundo real.  
-O portfólio vai me ajudar a acompanhar meu próprio crescimento.
+A disciplina não é só sobre leis, é sobre consciência e escolhas no mundo real.  
+Esse portfólio vai me ajudar a acompanhar meu próprio crescimento.
 
-**Prós:**  
-Achei a proposta diferente e legal porque faz a gente pensar mais.
+**Ponto positivo:**  
+A ideia do portfólio é diferente e faz a gente refletir.
 
-**Contras:**  
-No começo ficou meio vago o que realmente era esperado da gente.
+**Ponto negativo:**  
+Ficou meio vago no início o que era esperado.
 
 ---
 
 ## 📅 Semana 2 – Pensamento Computacional
 
 ### O que foi discutido:
-Vimos o que é pensamento computacional e seus pilares: decomposição, abstração, padrões e algoritmos.  
-A aula teve exemplos simples, como ensinar a fazer um bolo ou identificar um suspeito.
+Definição dos pilares: decomposição, abstração, reconhecimento de padrões e algoritmos.  
+Exemplos simples como fazer bolo ou montar o perfil de um suspeito.
 
 ### O que eu aprendi:
-Percebi que pensamento computacional vai além de programar — é um jeito de enxergar problemas.
+Pensamento computacional vai além da programação. É uma forma de organizar ideias e resolver problemas.
 
-### Como isso contribui para minha formação:
-Me ajuda a organizar ideias e estruturar soluções, que é algo essencial na área de software.
+**Ponto positivo:**  
+Os exemplos ajudaram bastante a entender.
 
-**Prós:**  
-A explicação foi boa e os exemplos facilitaram o entendimento.
-
-**Contras:**  
-Teve muita informação nova, então pode confundir um pouco de início.
+**Ponto negativo:**  
+Muita informação nova de uma vez só.
 
 ---
 
-## 📅 Semana 3 –
+## 📅 Semana 3 – Feriado / Semana vaga
 
-Muitos feriados e aulas sem aula, nada a comentar nessa semana!
+Aulas interrompidas, sem conteúdo relevante.
 
 ---
 
 ## 📅 Semana 4 – Atitudes Empreendedoras
 
 ### O que foi discutido:
-Falamos sobre a diferença entre empreender e administrar.  
-Discutimos o autoconhecimento e as CCEs (Características de Comportamento Empreendedor) da ONU.  
-A professora usou exemplos como Geraldo Rufino e Luiza Trajano.
+Diferença entre empreender e administrar, CCEs da ONU, autoconhecimento.  
+Exemplos como Geraldo Rufino e Luiza Trajano.
 
 ### O que eu aprendi:
-Empreender é ter atitude, pensar em soluções, se conhecer.  
-Não é só sobre abrir empresa, é uma postura.
+Empreender é mais sobre postura e atitude do que sobre abrir negócio.
 
-**Prós:**  
-Gostei dos exemplos, foi inspirador.
+**Ponto positivo:**  
+Os exemplos reais inspiraram.
 
-**Contras:**  
-Achei um pouco teórico demais no momento.
+**Ponto negativo:**  
+O conteúdo foi teórico demais pra esse momento.
 
 ---
 
-### 🔄 Auto reflexão sobre atitudes empreendedoras
+### 🔄 Minha auto-reflexão
 
-> **Você se desafia diariamente ou prefere permanecer na zona de conforto?**  
-Não me desafio tanto quanto deveria.
-
-> **Quando recebe um resultado, costuma se perguntar: Como posso melhorar? ou aceita como está?**  
-Quase sempre quero melhorar.
-
-> **Diante de um obstáculo, sua primeira reação é buscar alternativas ou se conformar?**  
-Se for algo que eu gosto, eu insisto.
-
-> **Ao iniciar algo novo, você pesquisa, avalia riscos e testa antes de agir, ou prefere aprender fazendo?**  
-Prefiro ir fazendo e aprendendo na prática.
-
-> **Quando algo dá errado, você assume a responsabilidade e aprende com isso ou busca culpados?**  
-Costumo assumir. Acho mais justo.
-
-> **Diante de um fracasso, você persiste tentando de outra forma ou desiste da ideia?**  
-Depende da situação, mas tento insistir pelo menos uma vez.
+- **Me desafio?** → Não tanto quanto deveria.  
+- **Quero melhorar ou aceito como está?** → Quase sempre tento melhorar.  
+- **Diante de obstáculos?** → Quando gosto, insisto.  
+- **Pesquiso ou aprendo na prática?** → Prefiro aprender fazendo.  
+- **Assumo erros ou culpo os outros?** → Costumo assumir.  
+- **Desisto ou insisto após um fracasso?** → Tento mais de uma vez.
 
 ---
 
-## 📅 Semana 5 – Empreendedorismo na Prática
+## 📅 Semana 5 – Empreendedorismo na prática
 
-### O que foi discutido:
-Fizemos uma autoavaliação usando as CCEs e criamos um plano de ação com a ferramenta 5W2H.
+### O que foi feito:
+Autoavaliação com CCEs e construção de um plano de ação com 5W2H.
 
 ### O que eu aprendi:
-Fazer esse plano me fez pensar em como posso agir melhor.  
-Rever meus comportamentos me fez refletir bastante.
+Esse plano me ajudou a perceber como posso agir melhor.
 
-**Prós:**  
-A prática foi útil e com certeza dá pra usar fora da faculdade.
+**Ponto positivo:**  
+Foi uma atividade prática útil.
 
-**Contras:**  
-Faltou um exemplo mais claro do 5W2H, ajudaria muito.
+**Ponto negativo:**  
+Faltou um exemplo claro da ferramenta.
 
-### 🧠 Autoavaliação das minhas atitudes
+### 🧠 Autoavaliação
 
-**Meus pontos fortes:**  
-Não costumo desistir fácil. Tento resolver as coisas até funcionar e gosto de melhorar o que faço.
-
-**O que eu preciso melhorar:**  
-Pesquisar mais antes de decidir. Pensar nos riscos.
-
-**O que quero melhorar:**  
-Analisar melhor antes de agir.
-
-**O que vou fazer pra melhorar:**
-- Ver casos reais de decisões boas e ruins.
-- Praticar mais isso nos projetos.
-- Pedir opinião pra colegas e professores.
+- **Meus pontos fortes:** Persistência e vontade de melhorar.  
+- **O que preciso melhorar:** Analisar mais antes de agir.  
+- **Ações:**  
+  - Observar exemplos reais  
+  - Praticar isso em projetos  
+  - Pedir opiniões a colegas e professores
 
 ---
 
 ## 📅 Semana 6 – Argumentação e Persuasão
 
 ### O que foi feito:
-Fizemos uma dinâmica tipo pitch.  
-Alguns colegas tentaram me convencer sobre softwares, mas eu não fui sorteado pra apresentar.
+Dinâmica de pitch, onde colegas tentaram me convencer sobre um tema.  
+Não fui sorteado pra apresentar, mas participei ouvindo.
 
 ### O que eu aprendi:
-Mesmo só ouvindo, deu pra perceber o peso da comunicação.  
-Falar bem e ter postura fazem muita diferença.
+A forma de se comunicar faz muita diferença. Postura importa.
 
-**Prós:**  
-A dinâmica foi leve e diferente.
+**Ponto positivo:**  
+Atividade diferente e leve.
 
-**Contras:**  
-A distribuição foi meio bagunçada e nem todo mundo participou.
+**Ponto negativo:**  
+Organização foi um pouco bagunçada.
 
 ---
 
 ## 📅 Semana 7 – Ética e Responsabilidade
 
 ### O que foi discutido:
-Conversamos sobre ética, moral, alteridade, responsabilidade e ecologia.  
-Estudamos autores como Chauí, Boff, Lévinas, Hans Jonas e Dussel.  
-A professora falou que viver com ética é mais que seguir regras: é pensar no impacto das nossas ações.
+Ética, moral, alteridade, responsabilidade, ecologia.  
+Autores como Chauí, Boff, Lévinas, Hans Jonas e Dussel.
 
 ### O que eu aprendi:
-Ética e moral são coisas diferentes.  
-Moral é pessoal, ética é sobre viver com os outros.  
-Aprendi que viver eticamente envolve pensar nos outros, no meio ambiente e nas consequências do que a gente faz.
+Moral é pessoal, ética é coletiva.  
+Ser ético é pensar nas consequências dos nossos atos.
 
-### Como isso me ajuda na minha formação:
-Como programador, não é só fazer funcionar.  
-Preciso pensar em quem vai usar, se é acessível, seguro, justo.  
-Até tratar os dados dos usuários com cuidado entra nisso.
+### Aplicação na área de software:
+Não basta fazer funcionar. Tem que pensar no impacto, na acessibilidade, na privacidade e na justiça do que desenvolvemos.
 
-**Prós:**  
-Me fez pensar sobre várias coisas além da técnica.
+**Ponto positivo:**  
+Reflexão profunda sobre nosso papel.
 
-**Contras:**  
-Textos densos, exigem mais foco.
+**Ponto negativo:**  
+Textos densos e difíceis.
 
 ---
 
-## 📅 Semana 8 – Aula curta sem a prova prevista
+## 📅 Semana 8 – Aula sem prova
 
-Era pra ter uma prova, mas acabou não acontecendo.  
-Discutimos datas de avaliação e do seminário.  
-Não teve muito conteúdo novo.
+A prova não aconteceu. A aula foi usada pra alinhar datas e organizar o seminário.
 
 ---
 
-## 📅 Semana 9 – Formação dos grupos para o seminário
+## 📅 Semana 9 – Grupos do seminário
 
-Formamos os grupos.  
-Foi difícil achar um grupo porque muita gente chegou atrasada.  
-No fim, consegui entrar em um, mas ele ainda tá incompleto.
-
-A vibe da sala não é muito boa. Parece que falta união, e todo mundo só quer andar com os conhecidos.  
-Acho que os grupos podiam ser sorteados. Ajudaria a turma a se misturar mais.
+Formação dos grupos foi confusa. Muita gente chegou atrasada.  
+Entrei num grupo, mas está incompleto.  
+Faltou organização e mais união da turma. Sorteio teria sido melhor.
 
 ---
 
-## 📅 Semana 10 – Debate sobre várias perguntas, em círculo
+## 📅 Semana 10 – Debate em círculo
 
-A dinâmica foi diferente. Raramente a turma fica cara a cara.  
-Mas pouca gente quis participar, e quem falou parece que não foi ouvido.
-
-Talvez se os alunos fizessem perguntas uns pros outros seria mais legal.  
-Viraria um bate-papo de verdade em vez de uma pessoa falando e os outros calados.
-
-## 📅 Semana 11 – (Final)
-
+Tentamos fazer uma roda de conversa, mas poucos participaram.  
+Faltou escuta e engajamento.  
+Talvez uma dinâmica com perguntas entre os alunos fosse mais eficiente.
 
 ---
 
-Ao longo das semanas, além das reflexões, também desenvolvi alguns projetos práticos que me ajudaram a aplicar o que aprendi na faculdade:
+## 📅 Semana 11 – Fechamento
+
+Semana final. Revisamos as últimas pendências e organizei meu portfólio.
+
+---
 
 ## 🛠️ Projetos desenvolvidos durante o período
 
-**Releitura.com**  
+### 📚 Releitura.com  
 Plataforma web para doação e troca de livros entre estudantes.  
-Desenvolvido como parte do Desafio X, um projeto institucional da faculdade voltado para soluções sociais.  
-Responsável pela estrutura do front-end (Angular), autenticação e banco de dados (Firebase).  
-<a href="https://releitura.com" target="_blank">Acessar o site</a>
-
-**GeoPalmas**  
-Conversor de endereços de Palmas/TO que traduz siglas como ARSE, ARSO e plano diretor para nomenclaturas oficiais (ex: "105 Sul").  
-Desenvolvido em Python, com foco em lógica e organização de dados.  
-<a href="https://github.com/L9nnek/geo-palmas" target="_blank">Ver repositório</a>
-
-**Jogo da Velha (CLI)**  
-Versão em Python jogável no terminal.  
-Projeto voltado para treinar lógica, funções e controle de fluxo.  
-<a href="https://github.com/L9nnek/Jogo-da-velha" target="_blank">Ver repositório</a>
+Desenvolvido no **Desafio X**, projeto da faculdade.  
+Fiz o front-end com Angular e integrei com Firebase (autenticação e Firestore).  
+👉 [Acessar o site](https://releitura.com)
 
 ---
 
-## 📚 Referências Citadas
+### 🌐 GeoPalmas  
+Conversor de endereços de Palmas/TO que traduz siglas como ARSE e ARSO para nomes como "105 Sul".  
+Feito em Python pra treinar lógica e organização de dados.  
+👉 [Ver repositório](https://github.com/L9nnek/geo-palmas)
 
-- CHAUÍ, Marilena. *Convite à Filosofia*.  
-- BOFF, Leonardo. *Saber Cuidar*.  
-- LÉVINAS, Emmanuel. *Ética e Infinito*.  
-- JONAS, Hans. *O Princípio Responsabilidade*.  
-- DUSSEL, Enrique. *Ética da Libertação*.
+---
+
+### 🎮 Jogo da Velha (CLI)  
+Jogo da velha no terminal usando Python.  
+Serve pra praticar estruturas básicas como funções, loops e controle de fluxo.  
+👉 [Ver repositório](https://github.com/L9nnek/Jogo-da-velha)
+
+---
+
+## 📚 Referências
+
+- CHAUÍ, Marilena. *Convite à Filosofia*  
+- BOFF, Leonardo. *Saber Cuidar*  
+- LÉVINAS, Emmanuel. *Ética e Infinito*  
+- JONAS, Hans. *O Princípio Responsabilidade*  
+- DUSSEL, Enrique. *Ética da Libertação*
