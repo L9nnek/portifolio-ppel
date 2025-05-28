@@ -44,7 +44,7 @@ Teve muita informação nova, então pode confundir um pouco de início.
 
 ## 📅 Semana 3 –
 
-*(Ainda sem conteúdo adicionado)*
+Muitos feriados e aulas sem aula, nada a comentar nessa semana!
 
 ---
 
@@ -191,6 +191,9 @@ Mas pouca gente quis participar, e quem falou parece que não foi ouvido.
 
 Talvez se os alunos fizessem perguntas uns pros outros seria mais legal.  
 Viraria um bate-papo de verdade em vez de uma pessoa falando e os outros calados.
+
+## 📅 Semana 11 – (Final)
+
 
 ---
 
