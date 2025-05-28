@@ -192,3 +192,29 @@ Porém, meio que ninguém quis participar e os que falaram, não achei que muito
 
 Talvez uma forma melhor de fazer as pessoas se interessarem mais seria criar perguntas aleatórias que os próprios alunos iriam perguntar para os outros alunos.  
 Um bate-papo real em vez de uma pessoa falando e todos ouvindo.
+
+---
+
+Ao longo das semanas, além das reflexões, também desenvolvi alguns projetos práticos que me ajudaram a aplicar o que aprendi na faculdade:
+
+## 🛠️ Projetos Desenvolvidos ao Longo do Período
+
+### 📚 Releitura.com
+> Plataforma web para doação e troca de livros entre estudantes.  
+> Desenvolvido como parte do **Desafio X**, um projeto institucional da faculdade voltado para soluções sociais e inovadoras.  
+> Fui responsável por estruturar todo o front-end com Angular, integração com Firebase (Auth e Firestore) e lógica de cadastro e autenticação de usuários.  
+
+---
+
+### 🌐 GeoPalmas
+> Conversor de endereços de Palmas/TO que mapeia siglas como ARSE, ARSO e plano diretor para nomenclaturas oficiais (ex: "105 Sul").  
+> Projeto criado em Python com foco em lógica, organização de dados e aplicação de conceitos de programação voltados à realidade local.  
+> [🔗 Ver repositório](https://github.com/L9nnek/geo-palmas)
+
+---
+
+### 🎮 Jogo da Velha (CLI)
+> Versão jogável de Jogo da Velha feita em Python no terminal.  
+> Utilizado para praticar estruturas de repetição, funções e controle de fluxo.  
+> Foco em lógica simples e experiência básica de jogo para duas pessoas.  
+> [🔗 Ver repositório](https://github.com/L9nnek/Jogo-da-velha)
