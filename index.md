@@ -168,24 +168,24 @@ Semana final. Revisamos as últimas pendências e organizei meu portfólio.
 ## 🛠️ Projetos desenvolvidos durante o período
 
 ### 📚 Releitura.com  
-Plataforma web para doação e troca de livros entre estudantes.  
-Desenvolvido no **Desafio X**, projeto da faculdade.  
-Fiz o front-end com Angular e integrei com Firebase (autenticação e Firestore).  
-👉 [Acessar o site](https://releitura.com)
+Plataforma web pra troca e doação de livros entre estudantes.  
+Feita no Desafio X, um projeto da faculdade.  
+Fiz o front-end com Angular e integrei com Firebase (auth e banco de dados).  
+👉 <a href="https://releitura.com" target="_blank">Acessar o site</a>
 
 ---
 
 ### 🌐 GeoPalmas  
-Conversor de endereços de Palmas/TO que traduz siglas como ARSE e ARSO para nomes como "105 Sul".  
+Conversor de endereços de Palmas/TO: transforma siglas tipo ARSE e ARSO em nomes como "105 Sul".  
 Feito em Python pra treinar lógica e organização de dados.  
-👉 [Ver repositório](https://github.com/L9nnek/geo-palmas)
+👉 <a href="https://github.com/L9nnek/geo-palmas" target="_blank">Ver repositório</a>
 
 ---
 
 ### 🎮 Jogo da Velha (CLI)  
-Jogo da velha no terminal usando Python.  
-Serve pra praticar estruturas básicas como funções, loops e controle de fluxo.  
-👉 [Ver repositório](https://github.com/L9nnek/Jogo-da-velha)
+Jogo da velha no terminal feito em Python.  
+Usei pra praticar funções, laços e lógica.  
+👉 <a href="https://github.com/L9nnek/Jogo-da-velha" target="_blank">Ver repositório</a>
 
 ---
 
