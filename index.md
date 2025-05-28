@@ -1,6 +1,5 @@
-# Portfólio PPEL
-
 Este é meu portfólio reflexivo da disciplina Práticas Profissionais em Ética e Legislação.
+
 
 💡 Reflexões Semanais
 
